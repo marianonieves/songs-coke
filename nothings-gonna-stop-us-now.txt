@@ -6,41 +6,71 @@ Tono: E (modula a F)
 Sin capo
 
 VERSO 1
+"Looking in your eyes..."
 | E | C#m | A | B |
+
+"Standing here beside you..."
 | E | C#m | A | B |
 
 PRE
+"Let 'em say we're crazy..."
 | E | C#m | A | B |
+
+"Let the world around us..."
 | E | C#m | A D | B |
 
 ESTRIBILLO
+"And we can build this thing together..."
 | E | C#m | A | B |
+
+"And if this world runs out of lovers..."
 | E | C#m | A | B |
 | D B |
 
 VERSO 2
+"I'm so glad I found you..."
 | E | C#m | A | B |
+
+"Take it to the good times..."
 | E | C#m | A | B |
 
 PRE
+"Let 'em say we're crazy..."
 | E | C#m | A | B |
+
+"Let the world around us..."
 | E | C#m | A D | B |
 
 ESTRIBILLO
+"And we can build this thing together..."
 | E | C#m | A | B |
+
+"And if this world runs out of lovers..."
 | E | C#m | A | B |
 
 PUENTE
+"Oh-oh, all that I need..."
 | E G#m | A |
+
+"All that I want to do..."
 | F#m E | G#m A |
 | F#m A | B |
 
 MODULA +1 SEMITONO: E - F
 
 ESTRIBILLO FINAL
+"And we can build this thing together..."
 | F | Dm | Bb | C |
+
+"And if this world runs out of lovers..."
 | F | Dm | Bb | C |
+
+"Build this thing together..."
 | F | Dm | Bb | C |
+
+REPETICIONES FINALES / FADE
+"Nothing's gonna stop us now..."
+| F | Dm | Bb | C | x3
 
 ===========================
 DÚO COKE
